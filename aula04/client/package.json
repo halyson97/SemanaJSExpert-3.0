@@ -10,6 +10,8 @@
     "user02": "node index.js --username naiara --room sala01 --hostUri http://localhost:9898",
     "user03": "node index.js --username maria --room sala02 --hostUri http://localhost:9898",
     "user04": "node index.js --username pedro --room sala02 --hostUri http://localhost:9898",
+    "user05": "node index.js --username maria --room sala01",
+    "user06": "node index.js --username pedro --room sala01",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
